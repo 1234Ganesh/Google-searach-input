@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.suggetsion-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  list-style-type: none;
+}
+.suggestion-word {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 0;
+}
+.arrow {
+  height: 15px;
+  width: 15px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
